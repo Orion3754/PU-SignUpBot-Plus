@@ -1,0 +1,3 @@
+# 保证 Windows 双击类文件永远是 CRLF（LF 的 .bat 会被 cmd 吃字符）
+*.bat text eol=crlf
+*.txt text eol=crlf
