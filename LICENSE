@@ -1,0 +1,44 @@
+授权说明（LICENSE）
+================================================================
+
+一、本仓库是修改版，不是原创项目
+    本仓库基于 RedForestLonvor/PU-SignUpBot 修改而来：
+        https://github.com/RedForestLonvor/PU-SignUpBot
+    上游仓库未提供任何开源许可证（无 LICENSE 文件、README 中也无版权声明），
+    因此上游代码的著作权归原作者所有。
+
+二、本仓库作者新增与修改的部分
+    包括：watch.py 常驻监控模式、活动 id 类型等若干 bug 修复、
+    安装与启动脚本（首次安装.bat / 启动.bat / 启动监控.bat）、使用说明文档。
+    这部分内容采用 MIT 许可证发布（见下方全文）。
+    Copyright (c) 2026 Orion3754
+
+三、关于异议
+    如上游原作者对本仓库的存在、署名方式或发布方式有任何异议，
+    请通过本仓库的 Issue 联系，我会立即调整署名、补充授权要求或删除本仓库。
+
+四、免责声明
+    本工具仅供学习与交流使用，请勿用于商业用途。
+    使用者需自行承担使用风险，包括但不限于账号被风控、报名失败等后果。
+    请遵守所在学校与平台（PU 口袋校园）的相关规定。
+
+================================================================
+MIT License (适用于本仓库作者的原创部分)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

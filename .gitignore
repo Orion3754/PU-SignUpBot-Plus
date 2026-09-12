@@ -1,0 +1,19 @@
+# ===== 虚拟环境 / Python 缓存 =====
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# ===== 编辑器 / 系统文件 =====
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ===== 用户隐私与本地状态（严禁提交！）=====
+# 包含账号密码 / 邮件授权码 / 运行日志，一旦提交后果严重
+user_data.json
+.env
+logs/
+watch_state.json
